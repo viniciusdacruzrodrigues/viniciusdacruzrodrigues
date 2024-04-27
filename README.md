@@ -1,5 +1,4 @@
-## Olá! Eu sou o Vinicius Rodrigues Dev
+## Olá! Eu sou o Vinicius Rodrigues
 
-- Atualmente trabalho como Jovem Aprendiz.
-- Estou cursando 1º ano de Engenharia de Softwere.
-- Tenho interesse em estagiar.
+Atualmente estou cursando o 1°Ano de Engenharia de Software.
+Meu Linkedin 👇🏻 https://www.linkedin.com/in/vinicius-rodrigues-dev-3ba917306?trk=contact-info
