@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinicius Rodrigues
+## Olá! Eu sou o Vinicius da Cruz Rodrigues
 
 Atualmente estou cursando o 1°Ano de Engenharia de Software.
 
