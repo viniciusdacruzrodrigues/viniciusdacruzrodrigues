@@ -5,4 +5,4 @@ Atualmente estou cursando o 1°Ano de Engenharia de Software.
 Meu Linkedin 👇🏻
 
 
-https://www.linkedin.com/in/vinicius-da-cruz-rodrigues-3ba917306/?originalSubdomain=br
+https://www.linkedin.com/in/vinicius-da-cruz-rodrigues
